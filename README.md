@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello Voyager! 👋
+
+💬 At this point, I wish to remain anonymous
 
 <!--
 **ts-dot-rs/ts-dot-rs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +15,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+NOTE TO READERS: 
+
+-[x] This is to reduce bias in PRs - people judge 
+-[x] I'm an optimist - and I would like to ✨freely✨ give my opinion which nobody asked for
 -->
