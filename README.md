@@ -1,8 +1,14 @@
-### Hello Voyager! 👋
+## Hello Voyager! 👋
 
-💬 At this point, I wish to remain anonymous
+![7gd19u](https://user-images.githubusercontent.com/129252969/228699459-7e26da97-6a4a-4065-908d-02c1281e4336.jpg)
+
+
+I do TS, RS, and CPP. Honorary memer.
+
+💬 At this point, I wish to remain anonymous.
 
 <!--
+
 **ts-dot-rs/ts-dot-rs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
